@@ -18,7 +18,7 @@
 
 <img width="746" height="612" alt="изображение" src="https://github.com/user-attachments/assets/0bd4eaa4-0147-4a11-886d-70391d6d3fc5" />
 
-
+---
 # Статусы:
 **discord_login_login_<номер_профиля>-<номер_задачи>.txt** - ```Успешно авторизован.```
 
