@@ -14,6 +14,6 @@
 <img width="768" height="531" alt="изображение" src="https://github.com/user-attachments/assets/4ffb99ba-77c1-4699-b85b-4407c4156ee2" />
 
 ---
-Посмотреть логи на предмет успешного или ошибочного выполнения RPA можно в каталоге: **~/.config/adspower_global/cwd_global/source/data**
+```Посмотреть логи на предмет успешного или ошибочного выполнения RPA можно в каталоге:``` **~/.config/adspower_global/cwd_global/source/data**
 
 <img width="746" height="612" alt="изображение" src="https://github.com/user-attachments/assets/0bd4eaa4-0147-4a11-886d-70391d6d3fc5" />
